@@ -1,37 +1,4 @@
 
-          
-		 <%@ include file="connect.jsp" %>
-		    <%@ page import="java.io.*"%>
-		    <%@ page import="java.util.*" %>
-		    <%@ page import="java.util.Date" %>
-		    <%@ page import="com.oreilly.servlet.*"%>
-		    <%@ page import ="java.text.SimpleDateFormat" %>
-		    <%@ page import ="javax.crypto.Cipher" %>
-		    <%@ page import ="javax.crypto.spec.SecretKeySpec" %>
-		    <%@ page import ="java.security.KeyPairGenerator,java.security.KeyPair,java.security.Key" %>
-		    <%@ page import ="org.bouncycastle.util.encoders.Base64" %>
-		    <%@ page import ="javax.crypto.spec.SecretKeySpec" %>
-		    <%@ page import="java.sql.*,java.util.Random,java.security.KeyPair,java.security.KeyPairGenerator,java.security.NoSuchAlgorithmException,java.security.PublicKey,javax.crypto.Cipher,javax.crypto.NoSuchPaddingException" %>
-		    <style type="text/css">
-<!--
-.style1 {color: #FFFF00}
-.style3 {color: #FFFFFF}
-.style5 {
-	font-weight: bold;
-	color: #FF0000;
-}
-.style6 {color: #FF0000}
--->
-            </style>
-		      
-
-
-
-
-          <title>A_View_All_Datasets_By_Transport_Blockchain</title><h2 class="style3">&nbsp;</h2>
-         
-          <div class="clr"></div>
-           <%
 					  
 						// Creation Of Blockchain 
 						
